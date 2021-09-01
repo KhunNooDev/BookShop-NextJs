@@ -1,0 +1,16 @@
+.bgColor {
+  background-color: #faf0e6;
+  color: #423309;
+}
+
+.btnColor {
+  width: 100px;
+  color: #423309 !important;
+  background-color: #927f6f !important;
+  border-color: #927f6f !important;
+  border-radius: 50px !important;
+}
+
+.hide {
+  list-style: none;
+}
